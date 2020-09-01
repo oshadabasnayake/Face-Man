@@ -2,4 +2,5 @@
 
 ## python,c,c++,c#,java 
 # Technologies
-Face detection library development and open cv 
+Face detection library development and open cv
+Testings for development
